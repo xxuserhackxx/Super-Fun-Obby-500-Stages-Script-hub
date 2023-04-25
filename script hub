@@ -1,2 +1,2 @@
 -- Script :
-https://pastebin.com/raw/c5YBikuA
+loadstring(game:HttpGet("https://pastebin.com/raw/c5YBikuA"))()
